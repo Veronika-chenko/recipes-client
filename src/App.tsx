@@ -21,11 +21,11 @@ const NotFound = lazy(() => import('pages/NotFound'));
 function App() {
   return (
     <Routes>
-      {/* 1 */}
+      {/* 1 Restricted */}
       <Route path='/welcome' element={<Welcome />} />
       <Route path='/register' element={<Register />} />
       <Route path='/login' element={<Login />} />
-      {/* 2 */}
+      {/* 2 Private */}
       <Route path='/' element={<SharedLayout />}>
         <Route index element={<MainPage />} />
         <Route path='/categories/:categoryName' element={<CategoriesPage />} />
