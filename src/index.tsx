@@ -11,7 +11,7 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   // <React.StrictMode>
-  <BrowserRouter basename='/recipes'>
+  <BrowserRouter basename='/recipes-client/'>
     <ThemeProvider theme={theme}>
       <App />
     </ThemeProvider>
