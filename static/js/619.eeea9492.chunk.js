@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrecipes_client=self.webpackChunkrecipes_client||[]).push([[619],{1619:function(e,t,i){i.r(t);var n=i(4554),c=i(890),o=i(184);t.default=function(){return(0,o.jsx)(n.Z,{pt:"162px",pb:"267px",children:(0,o.jsxs)(n.Z,{sx:{maxWidth:510},mb:"50px",children:[(0,o.jsx)(c.Z,{variant:"h1",children:"SoYummy"}),(0,o.jsx)(c.Z,{variant:"body1",children:'"What to cook?" is not only a recipe app, it is, in fact, your cookbook. You can add your own recipes to save them for the future.'})]})})}}}]);
+//# sourceMappingURL=619.eeea9492.chunk.js.map

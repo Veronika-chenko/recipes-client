@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrecipes_client=self.webpackChunkrecipes_client||[]).push([[844],{3844:function(e,c,i){i.r(c);var n=i(184);c.default=function(){return(0,n.jsx)("div",{children:"RecipePage"})}}}]);
+//# sourceMappingURL=844.ac1ea972.chunk.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/668.02bc498b.chunk.js","mappings":"wIAIA,UAJA,WACE,OAAOA,EAAAA,EAAAA,KAAA,OAAAC,SAAK,YACd,C","sources":["pages/SearchPage/index.tsx"],"sourcesContent":["function SearchPage() {\n  return <div>MainPage</div>;\n}\n\nexport default SearchPage;\n"],"names":["_jsx","children"],"sourceRoot":""}

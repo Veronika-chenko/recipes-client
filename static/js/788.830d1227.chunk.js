@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrecipes_client=self.webpackChunkrecipes_client||[]).push([[788],{3788:function(e,n,c){c.r(n);var i=c(184);n.default=function(){return(0,i.jsx)("div",{children:"LoginPage"})}}}]);
+//# sourceMappingURL=788.830d1227.chunk.js.map
