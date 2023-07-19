@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/recipes-client/static/css/main.e6c13ad2.css",
-    "main.js": "/recipes-client/static/js/main.3783824f.js",
-    "static/js/769.483c8d71.chunk.js": "/recipes-client/static/js/769.483c8d71.chunk.js",
-    "static/js/311.82d7f2d5.chunk.js": "/recipes-client/static/js/311.82d7f2d5.chunk.js",
-    "static/js/788.830d1227.chunk.js": "/recipes-client/static/js/788.830d1227.chunk.js",
+    "main.js": "/recipes-client/static/js/main.049ed88c.js",
+    "static/js/769.f2884dee.chunk.js": "/recipes-client/static/js/769.f2884dee.chunk.js",
+    "static/js/682.2fc739d7.chunk.js": "/recipes-client/static/js/682.2fc739d7.chunk.js",
+    "static/js/263.49cae3ce.chunk.js": "/recipes-client/static/js/263.49cae3ce.chunk.js",
+    "static/js/118.38699e34.chunk.js": "/recipes-client/static/js/118.38699e34.chunk.js",
     "static/js/619.eeea9492.chunk.js": "/recipes-client/static/js/619.eeea9492.chunk.js",
     "static/js/582.326c82a8.chunk.js": "/recipes-client/static/js/582.326c82a8.chunk.js",
     "static/js/166.9988163d.chunk.js": "/recipes-client/static/js/166.9988163d.chunk.js",
@@ -15,12 +16,15 @@
     "static/js/196.e13680ca.chunk.js": "/recipes-client/static/js/196.e13680ca.chunk.js",
     "static/js/675.8180aa12.chunk.js": "/recipes-client/static/js/675.8180aa12.chunk.js",
     "static/js/787.61400830.chunk.js": "/recipes-client/static/js/787.61400830.chunk.js",
+    "static/js/238.4045f2bf.chunk.js": "/recipes-client/static/js/238.4045f2bf.chunk.js",
+    "static/media/auth.png": "/recipes-client/static/media/auth.6d9d1dbf8c7259ec6a73.png",
     "index.html": "/recipes-client/index.html",
     "main.e6c13ad2.css.map": "/recipes-client/static/css/main.e6c13ad2.css.map",
-    "main.3783824f.js.map": "/recipes-client/static/js/main.3783824f.js.map",
-    "769.483c8d71.chunk.js.map": "/recipes-client/static/js/769.483c8d71.chunk.js.map",
-    "311.82d7f2d5.chunk.js.map": "/recipes-client/static/js/311.82d7f2d5.chunk.js.map",
-    "788.830d1227.chunk.js.map": "/recipes-client/static/js/788.830d1227.chunk.js.map",
+    "main.049ed88c.js.map": "/recipes-client/static/js/main.049ed88c.js.map",
+    "769.f2884dee.chunk.js.map": "/recipes-client/static/js/769.f2884dee.chunk.js.map",
+    "682.2fc739d7.chunk.js.map": "/recipes-client/static/js/682.2fc739d7.chunk.js.map",
+    "263.49cae3ce.chunk.js.map": "/recipes-client/static/js/263.49cae3ce.chunk.js.map",
+    "118.38699e34.chunk.js.map": "/recipes-client/static/js/118.38699e34.chunk.js.map",
     "619.eeea9492.chunk.js.map": "/recipes-client/static/js/619.eeea9492.chunk.js.map",
     "582.326c82a8.chunk.js.map": "/recipes-client/static/js/582.326c82a8.chunk.js.map",
     "166.9988163d.chunk.js.map": "/recipes-client/static/js/166.9988163d.chunk.js.map",
@@ -30,10 +34,11 @@
     "668.02bc498b.chunk.js.map": "/recipes-client/static/js/668.02bc498b.chunk.js.map",
     "196.e13680ca.chunk.js.map": "/recipes-client/static/js/196.e13680ca.chunk.js.map",
     "675.8180aa12.chunk.js.map": "/recipes-client/static/js/675.8180aa12.chunk.js.map",
-    "787.61400830.chunk.js.map": "/recipes-client/static/js/787.61400830.chunk.js.map"
+    "787.61400830.chunk.js.map": "/recipes-client/static/js/787.61400830.chunk.js.map",
+    "238.4045f2bf.chunk.js.map": "/recipes-client/static/js/238.4045f2bf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.3783824f.js"
+    "static/js/main.049ed88c.js"
   ]
 }

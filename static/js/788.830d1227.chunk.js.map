@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/788.830d1227.chunk.js","mappings":"yIAIA,UAJA,WACE,OAAOA,EAAAA,EAAAA,KAAA,OAAAC,SAAK,aACd,C","sources":["pages/LoginPage/index.tsx"],"sourcesContent":["function LoginPage() {\n  return <div>LoginPage</div>;\n}\n\nexport default LoginPage;\n"],"names":["_jsx","children"],"sourceRoot":""}
