@@ -8,7 +8,7 @@ export const SharedLayout = () => {
   return (
     <>
       <Header />
-      <Container maxWidth={'xl'} sx={{ borderWidth: '1px' }}>
+      <Container maxWidth={'lg'}>
         <Suspense fallback='Loading...'>
           <Outlet />
         </Suspense>

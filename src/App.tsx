@@ -6,6 +6,7 @@ import { SharedLayout } from 'components/modules';
 const Welcome = lazy(() => import('pages/Welcome'));
 const Register = lazy(() => import('pages/RegisterPage'));
 const Login = lazy(() => import('pages/LoginPage'));
+const AuthLayout = lazy(() => import('components/modules/auth/AuthLayout'));
 // 2
 const MainPage = lazy(() => import('pages/MainPage'));
 const CategoriesPage = lazy(() => import('pages/CategoriesPage'));
@@ -23,8 +24,10 @@ function App() {
     <Routes>
       {/* 1 Restricted */}
       <Route path='/welcome' element={<Welcome />} />
-      <Route path='/register' element={<Register />} />
-      <Route path='/login' element={<Login />} />
+      <Route path='/' element={<AuthLayout />}>
+        <Route path='/register' element={<Register />} />
+        <Route path='/login' element={<Login />} />
+      </Route>
       {/* 2 Private */}
       <Route path='/' element={<SharedLayout />}>
         <Route index element={<MainPage />} />

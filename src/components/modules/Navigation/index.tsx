@@ -60,7 +60,7 @@ export const Navigation = () => {
   return (
     <>
       {/* small */}
-      <Box sx={{ display: { xs: 'flex', md: 'none' } }}>
+      <Box sx={{ display: { xs: 'flex', lg: 'none' } }}>
         <IconButton
           size='large'
           aria-label='open mobile menu'
@@ -87,7 +87,7 @@ export const Navigation = () => {
         </Drawer>
       </Box>
       {/* large */}
-      <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' } }}>
+      <Box sx={{ flexGrow: 1, display: { xs: 'none', lg: 'flex' } }}>
         {pages.map((page) => (
           <Button
             component={RouterLink}

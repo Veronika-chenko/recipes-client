@@ -11,7 +11,7 @@ export const Header = () => {
           alignItems='center'
           flexWrap={'nowrap'}
           justifyContent={'space-between'}
-          gap={4}
+          sx={{ gap: { lg: '187px' } }}
         >
           <Link component={RouterLink} to='/' color='#000000'>
             Logo
@@ -21,11 +21,10 @@ export const Header = () => {
               display: 'flex',
               alignItems: 'center',
               columnGap: '24px',
-              flexGrow: { xs: 0, md: 1 },
-              ml: { lg: '180px' },
+              flexGrow: { xs: 0, lg: 1 },
             }}
           >
-            <Link color='#000000' sx={{ order: { sx: 4, md: 1 } }}>
+            <Link color='#000000' sx={{ order: { sx: 4, lg: 1 } }}>
               UserLogo
             </Link>
             <Navigation />
