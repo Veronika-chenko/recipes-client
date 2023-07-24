@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkrecipes_client=self.webpackChunkrecipes_client||[]).push([[354],{2354:function(e,c,i){i.r(c);var n=i(184);c.default=function(){return(0,n.jsx)("div",{children:"FavoritePage"})}}}]);
-//# sourceMappingURL=354.fd343219.chunk.js.map
